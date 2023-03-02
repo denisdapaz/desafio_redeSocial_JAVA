@@ -1,0 +1,14 @@
+Esse programa implementa um fluxograma de perguntas para decidir se deve ou não comentar em uma rede social. 
+
+Tanto o desenho do fluxo quanto o programa estão em anexo.
+
+O programa tem erros de compilação e lógica, estude o fluxo, avalie o código e corrija o programa.
+
+Dicas: 
+- Comece resolvendo os erros de compilação.
+- Entenda o que o programa faz (leia e interprete o código).
+- Faça uma alteração de cada vez e teste.
+- Use a ferramenta de debug do eclipse.
+- Mantenha o código identado.
+
+E atenção, você deve corrigir os bugs do programa, não é para implementá-lo novamente.
